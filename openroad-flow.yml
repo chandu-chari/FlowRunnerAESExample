@@ -4,7 +4,7 @@ version: '1'
 notify_email: True
 
 # the name of the design
-design_name: AES
+design_name: PLL
 
 # put your design source file(s) in the design folder
 # then, put write down a list of all input rtl files below
